@@ -23,4 +23,4 @@ Now you should have the toolkit listening on port ``5000``.
 
 ### How do I get it running on a smart TV?
 
-To get the toolkit running on a smart TV, you need to create a own DVB stream to modulate to the smart TV. For more instructions, follow the [official HbbTV guide](https://developer.hbbtv.org/guide/launching-hbbtv-applications-from-a-broadcast-channel/building-a-broadcast-ait/) or the steps from the thesis.
+To get the toolkit running on a smart TV, you need to create a own DVB stream with an custom application information table (AIT) injected and modulate it to the smart TV. For more instructions, follow the [official HbbTV guide](https://developer.hbbtv.org/guide/launching-hbbtv-applications-from-a-broadcast-channel/building-a-broadcast-ait/) or the steps from the thesis.
